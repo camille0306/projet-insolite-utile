@@ -1,0 +1,20 @@
+ .jumbotron {
+            width: 99.05vw;
+            height: 95vh;
+            background-image: linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url("gift.jpg");
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+.h3{
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.display-4{
+    font-size: 65px;
+}
+        .navbar-brand {
+            font-size: 1.7em !important;
+        }
